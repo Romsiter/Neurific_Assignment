@@ -1,0 +1,11 @@
+sentence-transformers
+langchain
+PyPDF
+transformers
+faiss-cpu
+pypdf
+tiktoken
+openai
+unstructured
+pydantic==2.10.6
+langchain-community
